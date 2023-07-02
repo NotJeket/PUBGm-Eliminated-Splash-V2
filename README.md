@@ -33,12 +33,14 @@ Description: The Splash Screen Generator program fetches data from an API and ge
 
 **Screenshot**:
 
-Insert the program's screenshot here.
+![image](https://github.com/NotJeket/PUBGm-Eliminated-Splash-V2/assets/37781149/7238ffb6-0725-42ad-9ed8-ceed38b6a65f)
+
 
 **Flowchart**:
 
-Insert the program's flowchart image here.
+![image](https://github.com/NotJeket/PUBGm-Eliminated-Splash-V2/assets/37781149/2f64554f-a169-40de-84fd-851eca76aba0)
+
 
 **License**
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/NotJeket/PUBGm-Eliminated-Splash-V2/blob/main/LICENSE) file for details.
