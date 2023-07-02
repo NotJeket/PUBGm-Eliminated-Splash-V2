@@ -1,7 +1,9 @@
 # PUBGm-Eliminated-Splash-V2
 
 
-Description: The Splash Screen Generator program fetches data from an API and generates splash screens for eliminated teams in a gaming competition. The program uses the Dash framework to create a web application that periodically updates the splash screens based on the live state data obtained from the API. The splash screens display the team logo, team name, elimination count, and rank. The program ensures that each eliminated team is displayed on the splash screen for a maximum of 10 seconds before transitioning to the next team. The program also handles the fading effect for the splash screens.
+**Description:** 
+
+The Splash Screen Generator program fetches data from an API and generates splash screens for eliminated teams in a gaming competition. The program uses the Dash framework to create a web application that periodically updates the splash screens based on the live state data obtained from the API. The splash screens display the team logo, team name, elimination count, and rank. The program ensures that each eliminated team is displayed on the splash screen for a maximum of 10 seconds before transitioning to the next team. The program also handles the fading effect for the splash screens.
 
 **Features**:
 
