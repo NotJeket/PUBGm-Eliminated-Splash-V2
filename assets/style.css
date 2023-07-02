@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Arame Mono Bold';
+    src: url('Arame Mono Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.splash-screen-container {
+    display: inline-block;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 0;
+    height: 100px ;
+    padding-left: 10px;
+}
+
+.team-logo-container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.team-info-row {
+    display: flex;
+    align-items: center;
+    width: 220px;
+    margin-left: 5px;
+
+}
+
+.splash-screen {
+    opacity: 0;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 100px;
+
+}
+
+.fade-in {
+    animation-name: fade-in;
+}
+
+.fade-out {
+    animation-name: fade-out;
+}
+
+@keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes fade-out {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}
+
+.team-logo {
+    color: white;
+    font-family: Arame Mono Bold;
+    width: 100px;
+    height: 100px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.team-info {
+    font-size: 18px;
+    color: #004066;
+    font-family: Arame Mono Bold;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-shadow: 1px 1px 2px white;
+    text-align: center;
+}
+
+.team-name {
+    text-align: center;
+    color: #004066;
+    font-family: Arame Mono Bold;
+    height: 50px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    text-shadow: 1px 1px 2px white;
+    max-width: 200px;
+    width: 220px;
+    word-wrap: break-word;
+    word-break: break-word;
+    margin-left: 12.5px;
+
+}
+
+
+.team-rank {
+    color: white;
+    font-family: Arame Mono Bold;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    margin-right: 0px;
+    margin-left: auto;
+}
+
+.team-kills {
+    color: white;
+    font-family: Arame Mono Bold;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+    font-weight: bold;
+}
