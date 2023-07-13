@@ -40,7 +40,8 @@ The Splash Screen Generator program fetches data from an API and generates splas
 
 **Flowchart**:
 
-![image](https://github.com/NotJeket/PUBGm-Eliminated-Splash-V2/assets/37781149/2f64554f-a169-40de-84fd-851eca76aba0)
+
+![code2flow_bL7Ceu](https://github.com/NotJeket/PUBGm-Eliminated-Splash-V2/assets/37781149/8a257399-962c-4084-b1ab-6e5730e43de3)
 
 
 **License**
